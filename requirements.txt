@@ -1,4 +1,4 @@
 numpy==2.3.3
-opencv-python-headless==4.10.0.84
+opencv-contrib-python==4.10.0.84
 pillow>=7.1.0,<11
 streamlit==1.38.0
